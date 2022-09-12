@@ -1,0 +1,36 @@
+.menu {
+    margin-bottom: 25px; 
+ }
+ 
+ .app {
+     margin-top: 25px;
+ }
+ 
+ .pagina {
+     border: dotted 1px orange;
+     padding: 25px !important;
+ }
+ 
+ li.list-group-item.active {
+     background-color: rgb(192, 255, 218);
+     border-color: rgb(112, 216, 129);
+     border-left: solid 10px rgb(112, 216, 129);
+ }
+ 
+ li a {
+     color: black;
+     text-decoration: none;
+ }
+ 
+ li a:hover {
+     color: red;
+ }
+
+ h4 {
+     color: rgb(192, 255, 218);
+ }
+
+ .confirmacao{
+    background-color:rgb(192, 255, 218) ;
+    font-family: 'Courier New', Courier, monospace;
+ }
